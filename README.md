@@ -12,3 +12,6 @@ https://www.instructables.com/id/Neoprene-Bend-Sensor-IMPROVED/
 
 https://learn.sparkfun.com/tutorials/force-sensitive-resistor-hookup-guide/all
 
+
+Las obras deribadas de Virtual Feet deberán incluir el indicativo: "Inspired by Virtual Feet".
+
